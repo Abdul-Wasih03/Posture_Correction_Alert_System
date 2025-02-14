@@ -52,7 +52,7 @@ streamlit run posture_correction.py
 
 ## 🌍 Deployment  
 The app is deployed on **Streamlit Community Cloud**.  
-📎 **Access it here:** [Deployed Link](https://share.streamlit.io/)  
+📎 **Access it here:** [Deployed Link]([https://share.streamlit.io/](https://posturecorrectionalertsystem.streamlit.app/))  
 
 ---
 
